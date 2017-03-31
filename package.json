@@ -1,0 +1,31 @@
+{
+  "name": "learn_react",
+  "version": "1.0.0",
+  "description": "A basci package that helps Yaoyuan to learn react.js, including basic skills about npm and other front-end pipeline tools",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-env": "^1.3.2",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.23.0",
+    "webpack": "^2.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkufaraway/learnReact.git).git"
+  },
+  "author": "Yaoyuan Liu (Allen)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkufaraway/learnReact.git)/issues"
+  },
+  "homepage": "https://github.com/pkufaraway/learnReact.git)#readme"
+}
